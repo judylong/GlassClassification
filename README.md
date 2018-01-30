@@ -19,4 +19,4 @@ $ jupyter notebook Glass.ipynb
 ```
 
 ## View Static Version  
-To view a static version of this notebook, click [here]('Glass.ipynb').
+To view a static version of this notebook, click [here](Glass.ipynb).
